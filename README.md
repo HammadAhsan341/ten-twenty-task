@@ -10,8 +10,6 @@ Create, edit, delete, and view timesheet entries
 
 Table and list views with sorting
 
-Track date, hours (0–168), description, and status (pending/approved/rejected)
-
 Form validation with Zod and React Hook Form
 
 Toast notifications for all user actions
@@ -61,7 +59,5 @@ Notes
 Session duration: 30 days
 
 Validation on both client and server
-
-No database (MVP-focused, easy to swap later)
 
 Clean, modular, and type-safe codebase
